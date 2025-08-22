@@ -6,4 +6,8 @@
 
 <img src="24.jpg" width="50%">
 
+如果实在懒得看怎么用 `Scriptable`，可以看此处 [tutorial](https://cuiem.github.io/posts/24/)。
+
 Eng: This is an open source project based on `Scriptable` and `JavaScript` to build a simple conference paper submission deadline countdown widget. The customization part is indicated in the code, which can be modified by yourself. The basic code is in `Conference-Countdown.js`, and a new file `24节气倒计时.js` has been added, which can automatically recognize the nearest solar term and perform a countdown to the 24 solar terms.
+
+If you are too lazy to see how to use `Scriptable`, you can see here [tutorial](https://cuiem.github.io/posts/24/).
